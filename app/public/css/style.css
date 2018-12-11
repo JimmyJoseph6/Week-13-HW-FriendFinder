@@ -1,0 +1,56 @@
+body{
+    background-color: #f1ebeb;
+    font-display: black;    
+}
+
+#flan {
+    color:black;
+}
+
+h1 {
+    text-align: center;
+    color:#fd5068;
+    font-family: Prompt, sans-serif;
+
+}
+
+h2 {
+    text-align: center;
+    font-size: 40px;
+    font-family: prompt;
+}
+
+
+
+#logo {
+    text-align: center;
+    color:#fd5068;
+    font-family: Prompt, sans-serif;
+    font-size: 60px;
+    padding-bottom: 10px;
+    padding-left: center;
+    
+    
+
+}
+
+#service {
+    padding-left: 35%;
+    text-align: center;
+}
+
+#topper {
+margin-bottom: 30px;
+}
+
+#mainpanel-content, #card {
+    background: white;
+}
+
+
+
+/* /* #bottom {
+    background-color:#fd5068;
+} */
+
+ 

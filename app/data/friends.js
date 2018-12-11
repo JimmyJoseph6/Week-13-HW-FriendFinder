@@ -1,8 +1,8 @@
 // Data structure that will store the friends data
 var friendsArray = [
 	{
-		name: 'Scooter',
-		photo: 'http://cdn3-www.dogtime.com/assets/uploads/gallery/30-impossibly-cute-puppies/impossibly-cute-puppy-15.jpg',
+		name: 'John Cena',
+		photo: 'https://cdn.images.express.co.uk/img/dynamic/171/590x/John-Cena-1056142.jpg?r=1544282042146',
 		scores: [
 			'1',
 			'5',
@@ -11,46 +11,46 @@ var friendsArray = [
 			'5',
 			'5',
 			'1',
-			'1',
-			'1',
-			'5'
-		]
-	},
-	{
-		name: 'Fluffy',
-		photo: 'https://i.ytimg.com/vi/mRf3-JkwqfU/hqdefault.jpg',
-		scores: [
-			'2',
-			'4',
-			'1',
-			'1',
-			'1',
-			'1',
-			'1',
-			'2',
-			'1',
-			'5'
-		]
-	},
-	{
-		name: 'Spencer',
-		photo: 'http://cdn3-www.cattime.com/assets/uploads/2011/08/best-kitten-names-1.jpg',
-		scores: [
-			'4',
-			'3',
-			'5',
-			'1',
-			'1',
-			'5',
-			'5',
 			'1',
 			'1',
 			'1'
 		]
 	},
 	{
-		name: 'Zackariah',
-		photo: 'https://pbs.twimg.com/profile_images/562466745340817408/_nIu8KHX.jpeg',
+		name: 'Colleen Wing',
+		photo: 'https://filmsjackets.com/image/cache/catalog/jessica-henwick-iron-fist-colleen-wing-jacket/colleen-wing-red-jacket-750x750.jpg',
+		scores: [
+			'2',
+			'4',
+			'1',
+			'1',
+			'1',
+			'1',
+			'1',
+			'2',
+			'1',
+			'2'
+		]
+	},
+	{
+		name: 'Elektra Natchios',
+		photo: 'https://media.vanityfair.com/photos/56eb1e22ffeffc951764db3c/master/w_768,c_limit/elodie-yung-daredevil-interview.jpg',
+		scores: [
+			'4',
+			'3',
+			'5',
+			'1',
+			'1',
+			'5',
+			'5',
+			'1',
+			'1',
+			'2'
+		]
+	},
+	{
+		name: 'Ryan Gosling',
+		photo: 'http://image.nj.com/home/advance-media/width600/img/nj-lvl_eagles_syndication/photo/2017/12/06/nfl-los-angeles-rams-at-arizona-cardinals-9954d272019f61d2.jpg',
 		scores: [
 			'5',
 			'1',
@@ -61,28 +61,28 @@ var friendsArray = [
 			'1',
 			'3',
 			'3',
+			'5'
+		]
+	},
+	{
+		name: 'Carol Danvers',
+		photo: 'https://www.thewrap.com/wp-content/uploads/2017/07/Brie-Larson-in-as-Captain-Marvel.jpg',
+		scores: [
+			'1',
+			'1',
+			'5',
+			'5',
+			'5',
+			'5',
+			'5',
+			'5',
+			'5',
 			'4'
 		]
 	},
 	{
-		name: 'Cloe',
-		photo: 'http://4.bp.blogspot.com/-HTvSYzA-pO4/UgQb4Zh_u0I/AAAAAAAAEuI/XwhtogT_1tA/s1600/3+cute2.jpg',
-		scores: [
-			'1',
-			'1',
-			'5',
-			'5',
-			'5',
-			'5',
-			'5',
-			'5',
-			'5',
-			'1'
-		]
-	},
-	{
-		name: 'Mrs. Piggy',
-		photo: 'http://img.mindbodygreen.com/image/upload/c_limit,w_738,f_auto/ftr/Miss-Piggy-large-tonya-312.jpg',
+		name: 'Sansa Stark',
+		photo: 'https://peopledotcom.files.wordpress.com/2017/06/sophie-turner-2.jpg',
 		scores: [
 			'1',
 			'1',
@@ -93,7 +93,7 @@ var friendsArray = [
 			'5',
 			'1',
 			'1',
-			'5'
+			'1'
 		]
 	},
 	{
@@ -113,8 +113,8 @@ var friendsArray = [
 		]
 	},
 	{
-		name: 'Adele Adkins',
-		photo: 'https://i1.imgiz.com/data/videoshots/6829/6829475-6461.jpg',
+		name: 'O-Ren Ishii',
+		photo: 'https://akns-images.eonline.com/eol_images/Entire_Site/2016910/rs_1024x850-161010165111-1024.Lucy-Liu-Beauty.jl.101016.jpg?fit=inside|900:auto&output-quality=90',
 		scores: [
 			'5',
 			'2',
@@ -125,39 +125,39 @@ var friendsArray = [
 			'3',
 			'1',
 			'1',
-			'5'
-		]
-	},
-	{
-		name: 'Kermit the Frog',
-		photo: 'http://i.dailymail.co.uk/i/pix/2015/09/02/08/2BE5406100000578-3218820-image-m-25_1441179775589.jpg',
-		scores: [
-			'5',
-			'5',
-			'5',
-			'5',
-			'5',
-			'5',
-			'5',
-			'5',
-			'5',
-			'5'
-		]
-	},
-	{
-		name: 'Elmo',
-		photo: 'http://1rjm5qg4v8732kpmn44ya6bj-wpengine.netdna-ssl.com/wp-content/uploads/2012/11/elmo-6601.png',
-		scores: [
-			'1',
-			'1',
-			'1',
-			'1',
-			'1',
-			'1',
-			'1',
-			'1',
-			'1',
 			'1'
+		]
+	},
+	{
+		name: 'Steve Rogers',
+		photo: 'https://media.wmagazine.com/photos/5a6276541f0ccf26968b8269/4:3/w_1536/1316.w.MS.royals.image2.jpg',
+		scores: [
+			'5',
+			'5',
+			'5',
+			'5',
+			'5',
+			'5',
+			'5',
+			'5',
+			'5',
+			'1'
+		]
+	},
+	{
+		name: 'Anthony Stark',
+		photo: 'https://www.thewrap.com/wp-content/uploads/2017/07/Robert-Downey-Jr-Iron-Man-Pepper-Potts-Tony-Stark.jpg',
+		scores: [
+			'1',
+			'1',
+			'1',
+			'1',
+			'1',
+			'1',
+			'1',
+			'1',
+			'1',
+			'3'
 		]
 	}
 ];
